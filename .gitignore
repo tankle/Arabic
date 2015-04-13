@@ -1,9 +1,18 @@
+# self-define 
+*.csv
+*.libsvm
+*.log
+*.xlsx
+feature/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 
 # C extensions
 *.so
+
 
 # Distribution / packaging
 .Python
